@@ -1,8 +1,8 @@
 Some new new new ideas about old old old trackers.
 
 TODO:
-- more than one track per pattern (mix tracks)
-- plat at different volumes
-- play at different pitches
+- smarter instruments (able to service multiple tracks)
+- play at different volumes
 - data format
 - GUI
+- play at different pitches
